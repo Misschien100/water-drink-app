@@ -13,3 +13,6 @@ Je hebt oude code weggehaald en structuur verbeterd.
 
 5. Add README with project description
 Je bent nu README.md aan het bewerken → commit waard.
+
+6. Add responsive layout breakpoints
+Je hebt F9 gedaan → commit dit als aparte wijziging.
