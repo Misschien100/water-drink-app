@@ -22,3 +22,6 @@ Je hebt een service-worker.js en manifest.json → commit dit.
 
 8. Fix translation loading in app.js
 Je hebt applyLanguage() verbeterd → commit waard.
+
+9. Clean up unused files and images
+Verwijder testbestanden, oude icons, ongebruikte HTML.
