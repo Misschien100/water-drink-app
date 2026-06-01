@@ -7,3 +7,6 @@ Je hebt de knoppen aangepast zodat ze vertaald worden.
 
 3. Remove duplicate filter buttons from dashboard.html
 Je had dubbele knoppen → nu opgeschoond.
+
+4. Clean up HTML structure on dashboard.html
+Je hebt oude code weggehaald en structuur verbeterd.
