@@ -16,3 +16,6 @@ Je bent nu README.md aan het bewerken → commit waard.
 
 6. Add responsive layout breakpoints
 Je hebt F9 gedaan → commit dit als aparte wijziging.
+
+7. Add service worker and manifest for PWA
+Je hebt een service-worker.js en manifest.json → commit dit.
