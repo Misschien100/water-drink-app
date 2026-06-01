@@ -19,3 +19,6 @@ Je hebt F9 gedaan → commit dit als aparte wijziging.
 
 7. Add service worker and manifest for PWA
 Je hebt een service-worker.js en manifest.json → commit dit.
+
+8. Fix translation loading in app.js
+Je hebt applyLanguage() verbeterd → commit waard.
