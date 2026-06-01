@@ -10,3 +10,6 @@ Je had dubbele knoppen → nu opgeschoond.
 
 4. Clean up HTML structure on dashboard.html
 Je hebt oude code weggehaald en structuur verbeterd.
+
+5. Add README with project description
+Je bent nu README.md aan het bewerken → commit waard.
