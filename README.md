@@ -25,3 +25,6 @@ Je hebt applyLanguage() verbeterd → commit waard.
 
 9. Clean up unused files and images
 Verwijder testbestanden, oude icons, ongebruikte HTML.
+
+10. Configure GitHub Pages deployment
+Zodra je Pages aanzet → commit README update met link.
